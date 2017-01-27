@@ -5,4 +5,4 @@ A Chrome plugin that adds "Copy BibTeX" button to Google Scholar Search result. 
 ![alt tag](/imgs/screenshot2.png)
 
 
-** This fork allows the extension to run on several local versions of Google Scholar (eg scholar.google.be, .fr, etc)
+** This fork allows the extension to run on several local versions of Google Scholar (eg scholar.google.be, .fr, etc). Install it at https://chrome.google.com/webstore/detail/bibtex-google-scholar-int/jppobkmpheckcklapgnidmgdmkabnoll
